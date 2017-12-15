@@ -41,8 +41,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        initWebView();哈哈
- 
+        initWebView();
+
     }
 
     //在页面销毁的时候将webview移除
